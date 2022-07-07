@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cz.upol.jj.seminar4.TestMain" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-11-17T15:41:48" hostname="LAPTOP-T9NQQG5F" time="0.043">
+  <properties/>
+  <testcase name="testMortality()" classname="cz.upol.jj.seminar4.TestMain" time="0.026"/>
+  <testcase name="testHumanAttributes()" classname="cz.upol.jj.seminar4.TestMain" time="0.009"/>
+  <testcase name="testMessages()" classname="cz.upol.jj.seminar4.TestMain" time="0.003"/>
+  <testcase name="testOwnership()" classname="cz.upol.jj.seminar4.TestMain" time="0.0"/>
+  <testcase name="sanityChecks()" classname="cz.upol.jj.seminar4.TestMain" time="0.001"/>
+  <testcase name="testAgeing()" classname="cz.upol.jj.seminar4.TestMain" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
