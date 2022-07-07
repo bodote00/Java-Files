@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cz.upol.jj.seminar5.TestMain" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-11-04T02:46:22" hostname="LAPTOP-T9NQQG5F" time="0.059">
+  <properties/>
+  <testcase name="testBooks()" classname="cz.upol.jj.seminar5.TestMain" time="0.037"/>
+  <testcase name="testCars()" classname="cz.upol.jj.seminar5.TestMain" time="0.002"/>
+  <testcase name="testRentalCars()" classname="cz.upol.jj.seminar5.TestMain" time="0.006"/>
+  <testcase name="testRentalBooksRent()" classname="cz.upol.jj.seminar5.TestMain" time="0.006"/>
+  <testcase name="testRentalBooksSort()" classname="cz.upol.jj.seminar5.TestMain" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
